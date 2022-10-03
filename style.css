@@ -1,0 +1,17 @@
+.container {
+  height: 100vh;
+  width: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  background-color: black;
+}
+
+.square {
+  background-color: white;
+  margin: 3px;
+}
+
+h1 {
+ color: white;
+}
